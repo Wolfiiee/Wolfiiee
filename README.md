@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolfiiee
-- 👀 I’m interested in Web dev *for now 😅
-- 🌱 I’m currently learning JavaScript and repolishing my HTML and CSS 
+- 👀 I’m interested in Web dev *for now 😅 update: am into building discord bots rn 😂
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects for self-taught beginners like myself
 - 📫 You can reach me here: wolfiieexx@gmail.com
 
